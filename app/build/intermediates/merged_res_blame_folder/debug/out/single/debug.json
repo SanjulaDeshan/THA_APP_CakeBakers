@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_cake.jpg.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/cake.jpg"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_cake3.jpg.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/cake3.jpg"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/layout_item_card.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_edit_text_box.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/edit_text_box.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/layout_activity_item_info_form.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/layout/activity_item_info_form.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/drawable_cake2.jpg.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/drawable/cake2.jpg"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tha.tha_app_204171h.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.tha.tha_app_204171h.app-main-36:/xml/backup_rules.xml"
+    }
+]
